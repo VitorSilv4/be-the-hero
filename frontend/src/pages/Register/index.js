@@ -50,7 +50,7 @@ export default function Register() {
 
                     <Link to="/" className="back-link">
                         <FiArrowLeft size={16} color='#E02041' />
-                        Voltar para Home
+                        Já possuo conta
                     </Link>
                 </section>
                 <form onSubmit={handleRegister}>
